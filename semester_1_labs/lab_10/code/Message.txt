@@ -1,0 +1,2 @@
+ссылка на репозиторий с sfml-sample:
+https://gitlab.com/EMiheeva/sfml_sample
