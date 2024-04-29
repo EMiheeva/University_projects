@@ -1,0 +1,1 @@
+Еще один алгоритм нахождения минимального разреза: https://www.geeksforgeeks.org/introduction-and-implementation-of-kargers-algorithm-for-minimum-cut/
